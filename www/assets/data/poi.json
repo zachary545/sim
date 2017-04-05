@@ -1,0 +1,94 @@
+{
+	"food": [
+        {
+            "name" : "Foodclique",
+            "description" : "Foodclique is located at Block A Level 3. Foodclique provides students with everything from Western cuisine to Korean, Chinese and Malay cuisine, all at affordable prices and leaving you wanting to buy more!",
+            "operatinghours" : "Operating Hours: Mon - Fri: 7:00AM - 9:00PM \t Sat: 7:00AM - 4:00PM",
+            "image" : "assets/images/poi/foodclique.jpg",
+            "vrimage" : "assets/vr_images/Block A/A_foodcourt_1.jpg"
+        },
+        {
+            "name" : "Foodnote",
+            "description" : "Foodnote is located at Block A Level 3. Foodnote provides students with everything from Western cuisine to Korean, Chinese and Malay cuisine.",
+            "operatinghours" : "Operating Hours: Mon - Fri: 7:30AM - 9:00PM \t Sat: 7:30AM - 4:00PM",
+            "image" : "assets/images/poi/foodnote.jpg",
+            "vrimage" : "assets/vr_images/Block A/A_foodcourt_2.jpg"
+        },
+        {
+            "name" : "Grab & Go",
+            "description" : "Grab & Go is located at Block A Level 3. Running late for class and haven’t had anything to eat? Grab & Go has got you covered! They offer students quick bites, anything from fried foods to the sweet and savoury.",
+            "operatinghours" : "",
+            "image" : "assets/images/poi/grab&go.jpg",
+            "vrimage" : "assets/vr_images/Block A/A_snackshop_2.jpg"
+        },
+        {
+            "name" : "The Buzz",
+            "description" : "The Buzz is located at Block A Level 1. The Buzz is a snack shop to help you from falling asleep during those long lectures!",
+            "operatinghours" : "",
+            "image" : "assets/images/poi/buzz.jpg",
+            "vrimage" : "assets/vr_images/Block A/A_snackshop_1.jpg"
+        },
+        {
+            "name" : "Starbucks Coffee",
+            "description" : "Starbucks Coffee is located at Block C Level 1. Starbucks Coffee is a place to get your caffeine fix to help you from falling asleep during those long lectures!",
+            "operatinghours" : "",
+            "image" : "assets/images/poi/starbucks.jpg",
+            "vrimage" : "assets/vr_images/Block C/C_starbucks.jpg"
+        }
+    ],
+    "student" :[
+        {
+            "name" : "Interactive Lounge",
+            "description" : "The interactive lounge is located at Block B Level 1 and can be used for studying purposes as well as a place for students to chill.",
+            "operatinghours" : "",
+            "image" : "assets/images/poi/lounge.jpg",
+            "vrimage" : "assets/vr_images/Block B/B_lounge.jpg"
+        },
+        {
+            "name" : "Wellness Centre",
+            "description" : "The wellness centre is located at Block C Level 2. It is a place where students can come to chill.",
+            "operatinghours" : "",
+            "image" : "assets/images/poi/wellness.jpg",
+            "vrimage" : "assets/vr_images/Block C/C_wellness.jpg"
+        }
+    ],
+    "sports" :[
+        {
+            "name" : "Gym",
+            "description" : "The gym is located at Block A Level 4. Our gym is well-equipped with top-notch exercise machinery, where students can work towards “Wellness and Fitness”.",
+            "operatinghours" : "",
+            "image" : "assets/images/poi/gym.jpg",
+            "vrimage" : "assets/vr_images/Block A/A_gym_2.jpg"
+        },
+        {
+            "name" : "Tennis Court",
+            "description" : "The tennis court is located at Block D Level 4. ",
+            "operatinghours" : "",
+            "image" : "assets/images/poi/tenniscourt.jpg",
+            "vrimage" : "assets/vr_images/Block D/D_tenniscourt.jpg"
+        },
+        {
+            "name" : "Sports Hall",
+            "description" : "The sports hall is located at Block D Level 2.",
+            "operatinghours" : "",
+            "image" : "assets/images/poi/sportshall.jpg",
+            "vrimage" : "assets/vr_images/Block D/D_sportshall.jpg"
+        },
+        {
+            "name" : "Dance Studio",
+            "description" : "The dance studio is located at Block D Level 1.",
+            "operatinghours" : "",
+            "image" : "assets/images/poi/dancestudio.jpg",
+            "vrimage" : "assets/vr_images/Block D/D_dancestudio.jpg"
+        }
+    ],
+    "others" :[
+        {
+            "name" : "Library",
+            "description" : "The library is located at Block A Level 2. Tay Eng Soon Library has an extensive collection which is comprised of both print and non-print resources ranging from books and journals, to audio/video materials and training packages and a range of online databases and journals, linking students and SIM members to the realm of information.",
+            "operatinghours" : "",
+            "image" : "assets/images/poi/library.jpg",
+            "vrimage" : "assets/vr_images/Block A/A_library_2.jpg"
+        }
+    ]
+}

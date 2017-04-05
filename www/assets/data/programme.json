@@ -1,0 +1,25 @@
+{
+	"IT": [
+        {
+            "name" : "Bachelor of Science (Honours) in Computing and Information Systems",
+            "description" : "This programme is suitable for those who wish to pursue a career in management, software engineering or systems analysis and design, based on a strong technical competence in information systems.",
+            "date" : "Sep 2017 – Jun 2020 (FT), inclusive of UOL Final Examination (3 years)",
+            "fee" : "S$37,800.00 (est.)",
+            "document" : "assets/documents/cis_cc.pdf"
+        },
+        {
+            "name" : "Bachelor of Science (Honours) in Creative Computing",
+            "description" : "This programme is suitable for those who wish to work at the intersection of technology and art, Web development, animation, games, mobile and other applications, and the development of new creative software applications.",
+            "date" : "Sep 2017 – Jun 2020 (FT), inclusive of UOL Final Examination (3 years)",
+            "fee" : "S$37,800.00 (est.)",
+            "document" : "assets/documents/cis_cc.pdf"
+        },
+        {
+            "name" : "Bachelor of Science (Honours) in Management and Digital Innovation",
+            "description" : "This programme will particularly suitable for those who seek a career in information systems management or management consultancy specialising in IT and IS. You may pursue a career in a software house or in organisations requiring systems management knowledge and skills.",
+            "date" : "Aug / Sep 2017 – Jun 2020 (FT) Standard BSc inclusive of UOL Final Examination (3 years)",
+            "fee" : "S$27,500 (est.) for 12 units / 3 years (Standard BSc route) S$20,800 (est.) for 9 units / 2 years (BSc Graduate entry route)",
+            "document" : "assets/documents/mdi.pdf"
+        }
+    ]
+}

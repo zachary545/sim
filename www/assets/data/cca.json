@@ -1,0 +1,397 @@
+{
+	"arts": [
+        {
+            "name" : "Anime & Gaming",
+            "description" : "Immerse yourself in our gaming community and the colourful world of Japanese animation, cosplay, manga, and the Japanese culture.",
+            "image" : "assets/images/cca/Arts & Culture/AnimeGaming.jpg"
+        },
+        {
+            "name" : "Dance Art",
+            "description" : "Dance takes an art form and transcends into beautiful expression over here through Jazz and Contemporary dance.",
+            "image" : "assets/images/cca/Arts & Culture/DanceArt.png"
+        },
+        {
+            "name" : "DanceSport",
+            "description" : "Take a step into the world of ballroom dancing where you discover that dance is so much more than a leisurely affair. It’s a sport!",
+            "image" : "assets/images/cca/Arts & Culture/DanceSport.png"
+        },
+        {
+            "name" : "DreamWerkz",
+            "description" : "Bounce ‘n’ bop to music hits and slick beats as you “Dance to express; not impress”.",
+            "image" : "assets/images/cca/Arts & Culture/DreamWerkz.png"
+        },
+        {
+            "name" : "Esprimere Singing Club",
+            "description" : "Think you’ve got what it takes to be the next vocal talent or simply just have a passion for singing? Join us, take center stage, and sing your heart out.",
+            "image" : "assets/images/cca/Arts & Culture/EsprimereSinging.png"
+        },
+        {
+            "name" : "Film and Performing Arts Society",
+            "description" : "Discover more about yourself in different characters & emotions as you explore the realms of performing arts & theatre. All the world’s a stage, so let’s live it in Lights, Camera, Action!",
+            "image" : "assets/images/cca/Arts & Culture/FilmPerformingArtsSociety.png"
+        },
+        {
+            "name" : "Guitar Club",
+            "description" : "Ever dreamed of serenading that special someone or perhaps playing your favourite tune? Learn more and develop a further interest into this popular musical instrument in a club that welcomes both beginners & experienced guitarists!",
+            "image" : "assets/images/cca/Arts & Culture/Guitar.png"
+        },
+        {
+            "name" : "Malay Cultural and Muslim Society",
+            "description" : "Discover what it means to be Malay & Muslim in the world today. Let us celebrate and preserve the Malay culture & heritage together!",
+            "image" : "assets/images/cca/Arts & Culture/MalayCulturalMuslimSociety.png"
+        },
+        {
+            "name" : "Photography Club",
+            "description" : "Capture the world through your lenses as we explore the world together with other photography enthusiasts.",
+            "image" : "assets/images/cca/Arts & Culture/Photography.png"
+        },
+        {
+            "name" : "Salsa En Soul",
+            "description" : "Live it up in this dance of strong passion & rhythmic energy. Come, light up the floor with us!",
+            "image" : "assets/images/cca/Arts & Culture/SalsaEnSoul.png"
+        },
+        {
+            "name" : "String Ensemble",
+            "description" : "Grace the stages and soothe the hearts of many in our quest for music appreciation through a classical mix of string instruments.",
+            "image" : "assets/images/cca/Arts & Culture/StringEnsemble.png"
+        }
+    ],
+    "international" :[
+        {
+            "name" : "Chinese National Network (CNN)",
+            "description" : "We aim to help Chinese students assimilate quickly into campus life by concerning ourselves with your welfare, studies, and social integration while retaining our Chinese cultural heritage.",
+            "image" : "assets/images/cca/International Students Club/ChineseNationalNetworkSIMCNN.png"
+        },
+        {
+            "name" : "Indonesian Community (InSIM)",
+            "description" : "Bonding the Indonesian way! This is the place where we express our unique opinions, talents, and creativity. We are “Where Indonesians bond in SIMGE”.",
+            "image" : "assets/images/cca/International Students Club/IndonesianCommunityINSIM.png"
+        },
+        {
+            "name" : "International Multicultural Mix (IMMIX)",
+            "description" : "All nationalities & cultures are welcomed! Let’s share the diverse cultural backgrounds of students new to Singapore and build a community of new bonds & friendship.",
+            "image" : "assets/images/cca/International Students Club/InternationalMulticulturalMixIMMIX.png"
+        },
+        {
+            "name" : "Malaysian Community (MCSIM)",
+            "description" : "The ideal platform for Malaysians to bond and blend into university life at SIMGE. Jom, let’s together-gather!",
+            "image" : "assets/images/cca/International Students Club/MalaysianCommunityMCSIM.png"
+        },
+        {
+            "name" : "Myanmar Club (MY-SIM)",
+            "description" : "Creates a home-away-from-home for all Burmese students as we support each other and share our unique culture.",
+            "image" : "assets/images/cca/International Students Club/MyanmarCommunityMYSIM.png"
+        },
+        {
+            "name" : "Vietnamese Community (SIMVNC)",
+            "description" : "Links the Vietnamese student community to others in Singapore through extensive participation in traditional Vietnamese events and activities.",
+            "image" : "assets/images/cca/International Students Club/VietnameseCommunitySIMVNC.png"
+        },
+        {
+            "name" : "SIM Indian Society (SIS)",
+            "description" : "Aims to forge bonds of friendship and support the Indian student community while bringing the diverse cultures & traditions of India in SIMGE.",
+            "image" : "assets/images/cca/International Students Club/IndianSociety.jpg"
+        }
+    ],
+    "special" :[
+        {
+            "name" : "Accounting Association",
+            "description" : "Kick-start your career as we share knowledge, experience and create links with accounting firms and bodies.",
+            "image" : "assets/images/cca/Special Interests/SI1.png"
+        },
+        {
+            "name" : "AIESEC@SIM",
+            "description" : "As part of the world’s largest youth-run organisation, AIESEC in SIM provides a chance to participate in cross-cultural global internship with a focus of empowering young people so they can make a positive impact on society.",
+            "image" : "assets/images/cca/Special Interests/SI2.png"
+        },
+        {
+            "name" : "Board Gaming Society",
+            "description" : "Long before MMORPG, board games ruled the leisure time of countless game enthusiasts and continues to do so.",
+            "image" : "assets/images/cca/Special Interests/SI3.png"
+        },
+        {
+            "name" : "Buddhist Bhavana",
+            "description" : "Learn more about the teachings of Buddha in a fun & inspiring way while attaining spiritual guidance.",
+            "image" : "assets/images/cca/Special Interests/SI4.png"
+        },
+        {
+            "name" : "Catholic Society",
+            "description" : "Learn more about the Catholic faith through regular Wednesday meetings.",
+            "image" : "assets/images/cca/Special Interests/SI5.png"
+        },
+        {
+            "name" : "Christian Fellowship",
+            "description" : "An Inter-denominational group with regular meetings on every Wednesday for Bible Study and outings.",
+            "image" : "assets/images/cca/Special Interests/SI6.png"
+        },
+        {
+            "name" : "Data Analysis",
+            "description" : "DAC provides a platform for students to learn data analytics and equip themselves with vital skills for the new data-driven world through the use of software.",
+            "image" : "assets/images/cca/Special Interests/SI7.jpg"
+        },
+        {
+            "name" : "Discourse",
+            "description" : "For the love of an intellectual challenge let us engage in competitive parliamentary style debates on a plethora of hot topics.",
+            "image" : "assets/images/cca/Special Interests/SI8.png"
+        },
+        {
+            "name" : "Economics Society",
+            "description" : "With keen interest on global economic issues, you can start to attain deeper knowledge in this intriguing topic.",
+            "image" : "assets/images/cca/Special Interests/SI9.png"
+        },
+        {
+            "name" : "I-Care",
+            "description" : "We care about community service and work towards building awareness and social transformation as we meet social needs and encourage social entrepreneurship.",
+            "image" : "assets/images/cca/Special Interests/SI10.png"
+        },
+        {
+            "name" : "International Affairs",
+            "description" : "Shaping the global mindset of tomorrow and communicate stories that make a difference. Embrace global citizenry.",
+            "image" : "assets/images/cca/Special Interests/SI10.jpg"
+        },
+        {
+            "name" : "Investment & Networking",
+            "description" : "The exciting world of investment is fraught with dangers and snares which we will help educate you and help you make wiser decisions.",
+            "image" : "assets/images/cca/Special Interests/SI12.png"
+        },
+        {
+            "name" : "IT",
+            "description" : "Keep up with the latest in IT trends and technologies with this affiliate of the Singapore Computer Society student chapter.",
+            "image" : "assets/images/cca/Special Interests/SI13.png"
+        },
+        {
+            "name" : "Psychology Society",
+            "description" : "Students meet the real world as we bring greater awareness to mental health issues beyond the textbook.",
+            "image" : "assets/images/cca/Special Interests/SI14.png"
+        },
+        {
+            "name" : "Social Innovation Park @ SIM",
+            "description" : "A student chapter of the Social Innovation Park, we initiate projects and events, partnering with SIP Headquarters, social entrepreneurs, businesses and public institutions.",
+            "image" : "assets/images/cca/Special Interests/SI15.png"
+        },
+        {
+            "name" : "Sociology",
+            "description" : "Sociology is more than just a subject as we go out on excursions and engage with real-world sociological needs.",
+            "image" : "assets/images/cca/Special Interests/SI16.png"
+        },
+        {
+            "name" : "Student Toastmasters",
+            "description" : "Rise up and give a toast, let fellow speakers and professionals rate you as you practise and improve your public speaking skills.",
+            "image" : "assets/images/cca/Special Interests/SI17.png"
+        },
+        {
+            "name" : "Young Entrepreneurs Network",
+            "description" : "Meet other like-minded entrepreneurs as we network and support each other through our entrepreneurial journey.",
+            "image" : "assets/images/cca/Special Interests/SI18.png"
+        }
+    ],
+    "sports" :[
+        {
+            "name" : "Aikido",
+            "description" : "This mysteriously passive, non-competitive, limited contact martial art is suitable for people of all ages and both genders.",
+            "image" : "assets/images/cca/Sports & Fitness/SF1.png"
+        },
+        {
+            "name" : "Aquathlon",
+            "description" : "A demanding sport that combines swimming and running, we compete in various biathlons and triathlons to test ourselves against the best.",
+            "image" : "assets/images/cca/Sports & Fitness/SF2.png"
+        },
+        {
+            "name" : "Badminton",
+            "description" : "We have both recreational sessions and competitive teams for all badminton enthusiasts, come join the fastest racquet sport in the world!",
+            "image" : "assets/images/cca/Sports & Fitness/SF3.png"
+        },
+        {
+            "name" : "Basketball",
+            "description" : "A well-established sport, we play regularly and compete in various biathlons and triathlons to test ourselves against the best.",
+            "image" : "assets/images/cca/Sports & Fitness/SF4.png"
+        },
+        {
+            "name" : "Bowling",
+            "description" : "Whether you are seriously competitive or simply love the sport, train hard with us and see yourself embrace the sound of continuous strikes!",
+            "image" : "assets/images/cca/Sports & Fitness/SF5.png"
+        },
+        {
+            "name" : "Canoe Polo",
+            "description" : "Five players, five canoes, one ball – this is an exciting water sport which combines basketball, water polo and canoeing.",
+            "image" : "assets/images/cca/Sports & Fitness/SF6.png"
+        },
+        {
+            "name" : "Canoeing",
+            "description" : "This is a fun, outdoor sport for those who love the sun, the sand and the sea.",
+            "image" : "assets/images/cca/Sports & Fitness/SF7.png"
+        },
+        {
+            "name" : "Cricket",
+            "description" : "Cricket involves the balance in movement, the elegance of form and is as exciting to watch as it is to play. If you are interested, just hop on the bandwagon!",
+            "image" : "assets/images/cca/Sports & Fitness/SF8.jpg"
+        },
+        {
+            "name" : "Cuesports",
+            "description" : "If you love 9-ball pool, then come down to our club! We train and play in a competitive, yet friendly environment, and would love nothing more than to increase the spread of our game.",
+            "image" : "assets/images/cca/Sports & Fitness/SF9.png"
+        },
+        {
+            "name" : "Dragon Boat",
+            "description" : "One man, one paddle, one team – power in harmony is what we are.",
+            "image" : "assets/images/cca/Sports & Fitness/SF10.png"
+        },
+        {
+            "name" : "Fencing",
+            "description" : "If you have lightning fast reflexes, great hand-eye coordination and inhuman motor skills, you might just be a natural-born Fencer!",
+            "image" : "assets/images/cca/Sports & Fitness/SF11.png"
+        },
+        {
+            "name" : "Floorball",
+            "description" : "From our humble beginnings in 2005, we are now 80-strong and competing at top levels in the IVP Games and the Singapore Floorball League. With a growing legacy, we wish to invite all of you to take part in our story!",
+            "image" : "assets/images/cca/Sports & Fitness/SF12.png"
+        },
+        {
+            "name" : "Golf",
+            "description" : "If you love taking note of variables like wind speed and direction, fairway slopes and ball placements, before concluding your analysis with one simple swing, Golf is the ideal sport for you. It tests your mental resolve as well as your physical abilities in ways unlike any other sport.",
+            "image" : "assets/images/cca/Sports & Fitness/SF13.png"
+        },
+        {
+            "name" : "Handball",
+            "description" : "This fast-paced team game is coached by an experienced coach who will impart to you all the skills and techniques for this popular game.",
+            "image" : "assets/images/cca/Sports & Fitness/SF14.png"
+        },
+        {
+            "name" : "Judo",
+            "description" : "Learn the gentle spirit of Judo and see it become a part of your studies, your lifestyle and your heart with confidence, mindfulness and equanimity.",
+            "image" : "assets/images/cca/Sports & Fitness/SF15.png"
+        },
+        {
+            "name" : "Kyokushinkai Karate",
+            "description" : "Learn why Karate has inspired countless movies, video games and documentaries.",
+            "image" : "assets/images/cca/Sports & Fitness/SF16.png"
+        },
+        {
+            "name" : "Life-saving & Swimming",
+            "description" : "Swimming is one of the basic physical activities human beings have partaken in since time immemorial. Not only does it make us stronger physically, swimming also grants us the ability to help others, and even save lives, instilling a sense of self-belief into those who become one with the wave.",
+            "image" : "assets/images/cca/Sports & Fitness/SF17.png"
+        },
+        {
+            "name" : "Muay Thai",
+            "description" : "With intense sparring sessions and training of the mind, learn to defend yourself, build your fitness, or strive to become a champion of the legendary martial art.",
+            "image" : "assets/images/cca/Sports & Fitness/SF18.png"
+        },
+        {
+            "name" : "Netball",
+            "description" : "The game for ladies, we welcome fierce and casual competition alike. Regardless of which, we promise that you will find Netball to be the perfect sport.",
+            "image" : "assets/images/cca/Sports & Fitness/SF19.png"
+        },
+        {
+            "name" : "Outdoor Adventure",
+            "description" : "Why do just one sport when you can experience kayaking, cycling, swimming, rock climbing and so much more?",
+            "image" : "assets/images/cca/Sports & Fitness/SF20.png"
+        },
+        {
+            "name" : "Rugby",
+            "description" : "One of the oldest sports, the physical rigours and the camaraderie have always attracted those strong in mind, body and spirit to the game.",
+            "image" : "assets/images/cca/Sports & Fitness/SF21.png"
+        },
+        {
+            "name" : "Silat",
+            "description" : "A fascinating martial arts that can be practised for fitness, self-defence or competition; Silat at SIM has grown from strength to strength.",
+            "image" : "assets/images/cca/Sports & Fitness/SF22.png"
+        },
+        {
+            "name" : "Soccer",
+            "description" : "The ever-popular sport, our soccer team does not just train and play, but aspires to build a strong sense of kinship amongst our members.",
+            "image" : "assets/images/cca/Sports & Fitness/SF23.png"
+        },
+        {
+            "name" : "Squash",
+            "description" : "One of the most intense of racquet sports, we have both recreational and competitive teams.",
+            "image" : "assets/images/cca/Sports & Fitness/SF24.png"
+        },
+        {
+            "name" : "Table Tennis",
+            "description" : "Made popular by Singapore’s strong performance on the international scene, we have both recreational and competitive teams.",
+            "image" : "assets/images/cca/Sports & Fitness/SF25.png"
+        },
+        {
+            "name" : "Taekwondo",
+            "description" : "Probably the most structured of all martial arts, it is a sport for both fitness and self-defence alike.",
+            "image" : "assets/images/cca/Sports & Fitness/SF26.png"
+        },
+        {
+            "name" : "Tchoukball",
+            "description" : "A non-contact handball game, similar to an amalgamation of handball, netball, and volleyball, this sport is quickly becoming a new must-see phenomenon at local sports events – join the craze!",
+            "image" : "assets/images/cca/Sports & Fitness/SF27.jpg"
+        },
+        {
+            "name" : "Tennis",
+            "description" : "The classic racquet sport – how else would you describe it? Whether you are just getting into the sport, or whether you already have some experience under your belt, this club is meant for all enthusiasts of the court!",
+            "image" : "assets/images/cca/Sports & Fitness/SF28.png"
+        },
+        {
+            "name" : "Touch Football",
+            "description" : "Ladies, meet the fastest growing sport in Singapore as we play football the American way.",
+            "image" : "assets/images/cca/Sports & Fitness/SF29.png"
+        },
+        {
+            "name" : "Track and Field",
+            "description" : "The mettle of an athlete is tested on the track and field, where we strive to develop our mental and physical potential to its fullest.",
+            "image" : "assets/images/cca/Sports & Fitness/SF30.jpg"
+        },
+        {
+            "name" : "Ultimate Frisbee",
+            "description" : "A recently born sport at SIM, we have grown from a small club to competing in Perth, improving ourselves and increasing the breadth of our audience with both recreational and competitive teams playing every week.",
+            "image" : "assets/images/cca/Sports & Fitness/SF31.png"
+        },
+        {
+            "name" : "Volleyball",
+            "description" : "One of the oldest sport in SIM and a popular game among schools in Singapore, this is a sport that is physically driven and demands strong team spirit. If you are interested or am already loving the sport, come join the team!",
+            "image" : "assets/images/cca/Sports & Fitness/SF32.png"
+        },
+        {
+            "name" : "Weiqi",
+            "description" : "One of the newest clubs, learn this ancient game of skill, cunning and brutal warfare embodied in a deceptively simple chess-like game.",
+            "image" : "assets/images/cca/Sports & Fitness/SF33.png"
+        },
+        {
+            "name" : "Windsurfing",
+            "description" : "If you love to ride the waves and feel the wind, then there is no better way to sail out to the open seas.",
+            "image" : "assets/images/cca/Sports & Fitness/SF34.png"
+        },
+        {
+            "name" : "Wakeboarding",
+            "description" : "This is an extreme sport combining techniques from surfing, water-skiing and snowboarding.",
+            "image" : "assets/images/cca/Sports & Fitness/SF35.png"
+        },
+        {
+            "name" : "Water Polo",
+            "description" : "This is an extreme sport combining techniques from surfing, water-skiing and snowboarding.",
+            "image" : "assets/images/cca/Sports & Fitness/SF36.png"
+        }
+    ],
+    "council" :[
+        {
+            "name" : "SIM-RMIT Student Council",
+            "description" : "SIM-RMIT Student Council endeavor to achieve a vibrantly enriching campus life to all SIM-RMIT students.",
+            "image" : "assets/images/cca/Student Councils/1.png"
+        },
+        {
+            "name" : "SIM-UB Student Council",
+            "description" : "SIM-UB Student Council endeavours to foster an identity of being a UB student at SIM.",
+            "image" : "assets/images/cca/Student Councils/2.png"
+        },
+        {
+            "name" : "SIM-UOB Student Council",
+            "description" : "SIM UOB Student Council seeks to promote educational, arts, sports, social and welfare activities among its members.",
+            "image" : "assets/images/cca/Student Councils/3.png"
+        },
+        {
+            "name" : "SIM-UOL Student Council",
+            "description" : "SIM-UOL Student Representative Council strive to promote a vibrant and holistic campus experience that moves beyond mere academic excellence.",
+            "image" : "assets/images/cca/Student Councils/4.png"
+        },
+        {
+            "name" : "SIM-UOW Student Council",
+            "description" : "SIM-UOW Student Council aims to bring a vibrant student life and to provide opportunities for developing leadership skills, provide networking as well as team-building opportunity.",
+            "image" : "assets/images/cca/Student Councils/5.png"
+        }
+    ]
+}
